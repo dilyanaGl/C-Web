@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\bin\Debug\netcoreapp2.0\HTTPServer.deps.json
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\bin\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\bin\Debug\netcoreapp2.0\HTTPServer.pdb
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Users\User\Downloads\05. CSharp-Web-Development-Basics-Databases-EF-Core-Skeleton\WebServer\obj\Debug\netcoreapp2.0\HTTPServer.pdb
