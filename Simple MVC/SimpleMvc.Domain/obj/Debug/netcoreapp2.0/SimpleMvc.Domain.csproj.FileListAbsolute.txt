@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.deps.json
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.dll
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\bin\Debug\netcoreapp2.0\SimpleMvc.Domain.pdb
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.dll
+C:\Users\User\Downloads\07. Web-Dev-Basics-Introduction-To-MVC-Resources\08. Web-Dev-Basics-Introduction-To-MVC\SimpleMvc.Domain\obj\Debug\netcoreapp2.0\SimpleMvc.Domain.pdb
