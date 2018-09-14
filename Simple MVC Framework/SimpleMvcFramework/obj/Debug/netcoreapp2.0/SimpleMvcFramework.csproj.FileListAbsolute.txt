@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.0\SimpleMvcFramework.deps.json
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.0\SimpleMvcFramework.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.0\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.csprojAssemblyReference.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.AssemblyInfo.cs
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.0\SimpleMvcFramework.csproj.CopyComplete

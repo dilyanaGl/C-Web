@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.deps.json
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.runtimeconfig.json
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.runtimeconfig.dev.json
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvc.App.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.csprojAssemblyReference.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.AssemblyInfo.cs
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvcFramework.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.0\SimpleMvc.App.csproj.CopyComplete
