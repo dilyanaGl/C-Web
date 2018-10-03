@@ -1,0 +1,9 @@
+﻿<h1>Your Cart</h1>
+<p><a href ="/">Home </a><a href="/search">Browse</a></p>
+{{{results}}}
+<hr/>
+<p>Total Cost: ${{{totalPrice}}}</p>
+<form method = "GET" action = "/finishOrder">
+    <input type ="hidden" name = "Cake" value = "order"/>
+    <input type="submit" value="Order"/>
+    </form>
