@@ -1,0 +1,26 @@
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.deps.json
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csprojAssemblyReference.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.AssemblyInfo.cs
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csproj.CopyComplete
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.dll
+C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csprojAssemblyReference.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.AssemblyInfo.cs
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.deps.json
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\SimpleMvcFramework\obj\Debug\netcoreapp2.1\SimpleMvcFramework.csproj.CopyComplete
