@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>IRunes</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-nav bg-success">
+
+            <a class="navbar-brand" style="color:ghostwhite" href="/">IRunes</a>
+            <button class="navbar-toggler" type="button" style="color:ghostwhite" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto" style="display:{{{guest}}}">
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/">Home</a></li>
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/users/login">Login</a></li>
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/users/register">Register</a></li>
+                </ul>
+
+                <ul class="navbar-nav mr-auto" style="display:{{{user}}}">
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/">Home</a></li>
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/albums/all">Albums</a></li>
+                    <li clas="nav-item active"><a class="nav-link" style="color:ghostwhite" href="/users/logout">Logout</a></li>
+                </ul>                  
+            </div>        
+            
+        </nav>
+      
+    </header>
+    <main>
+        <hr class="bg-success" style="height:2px" />           
+        {{{content}}}
+    </main>
+    <footer>
+        <hr class="bg-success" style="height:2px"/>
+        <h6 class="text-center">CopyRight &copy; Sanity Design Studios. All rights reserved.</h6>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.csproj.CopyComplete
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\User\Downloads\SIS-master\SIS-master\src\App\obj\Debug\netcoreapp2.1\App.pdb

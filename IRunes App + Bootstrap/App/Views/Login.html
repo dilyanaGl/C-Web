@@ -1,0 +1,19 @@
+﻿<div class="container">
+<h1 class="text-center" style="color:green">Login</h1>
+<hr class="bg-success" style="height:2px" />
+<div style="
+    display:{{{showError}}}">
+    {{{errorMessage}}}
+</div>
+<form method="POST" action="doLogin">
+    <div class="form-group">  
+        <label for="Username">Username / Email</label>
+        <input required type="text" class="form-control" id="Username" name="Username" placeholder="Username...">
+   </div>
+    <div class="form-group">
+        <label for="Password">Password</label>
+        <input required type="password" class="form-control" name="Password" placeholder="Password...">
+    </div>
+    <input type="submit" class="btn btn-success" value="Login">
+</form>
+    </div>

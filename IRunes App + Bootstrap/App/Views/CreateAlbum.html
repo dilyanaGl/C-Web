@@ -1,0 +1,20 @@
+﻿<div class="container">
+    <h1 style="color:green; text-align:center">Create Album</h1>
+    <hr class="bg-success" style="height:2px" />
+
+    <form method="POST" action="/albums/create">
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input required type="text" id="Name" class="form-control" name="Name" placeholder="Name...">
+        </div>
+
+        <div class="form-group">
+            <label for="Cover">Cover</label>
+            <input required type="url" id="Cover" class="form-control" name="Cover" placeholder="Cover...">
+        </div>
+        <div class="btn-toolbar d-flex justify-content-around">
+            <input type="submit" class="btn btn-success align-content-center" value="Create">
+            <a href="/albums/all" class="btn btn-success pull-right">Back To All</a>
+        </div>
+    </form>
+</div>
