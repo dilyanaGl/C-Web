@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServer", "WebServer\WebServer.csproj", "{72911109-BEDB-43A3-9747-05BE33389BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvcFramework", "SimpleMvcFramework\SimpleMvcFramework.csproj", "{9051825B-0C16-4D2D-BC13-CC5AC6ED9842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMvcFramework", "SimpleMvcFramework\SimpleMvcFramework.csproj", "{9051825B-0C16-4D2D-BC13-CC5AC6ED9842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvc.App", "SimpleMvc.App\SimpleMvc.App.csproj", "{CE8AAEAD-20DA-41C0-80B3-CA5FCBAE0A6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMvc.App", "SimpleMvc.App\SimpleMvc.App.csproj", "{CE8AAEAD-20DA-41C0-80B3-CA5FCBAE0A6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIS.WebServer", "..\..\SIS-master\SIS-master\src\SIS.WebServer\SIS.WebServer.csproj", "{774AF9F6-7875-4821-93CC-B5163125D56C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CE8AAEAD-20DA-41C0-80B3-CA5FCBAE0A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE8AAEAD-20DA-41C0-80B3-CA5FCBAE0A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE8AAEAD-20DA-41C0-80B3-CA5FCBAE0A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774AF9F6-7875-4821-93CC-B5163125D56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774AF9F6-7875-4821-93CC-B5163125D56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774AF9F6-7875-4821-93CC-B5163125D56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774AF9F6-7875-4821-93CC-B5163125D56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

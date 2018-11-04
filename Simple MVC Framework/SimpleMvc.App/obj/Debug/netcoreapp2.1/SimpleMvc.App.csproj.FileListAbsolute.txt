@@ -14,3 +14,19 @@ C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\Simp
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.pdb
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.dll
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.deps.json
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.runtimeconfig.json
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.runtimeconfig.dev.json
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvc.App.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvcFramework.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\SimpleMvcFramework.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.csprojAssemblyReference.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.AssemblyInfo.cs
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.csproj.CopyComplete
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\SimpleMvc.App\obj\Debug\netcoreapp2.1\SimpleMvc.App.pdb

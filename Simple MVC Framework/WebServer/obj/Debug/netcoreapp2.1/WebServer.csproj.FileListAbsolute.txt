@@ -7,3 +7,12 @@ C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\WebS
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
 C:\Users\User\Downloads\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\bin\Debug\netcoreapp2.1\WebServer.deps.json
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\User\Downloads\C-Web\Simple MVC Framework\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb

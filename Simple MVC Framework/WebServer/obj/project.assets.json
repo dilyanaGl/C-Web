@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj",
       "projectName": "WebServer",
-      "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

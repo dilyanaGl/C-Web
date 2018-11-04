@@ -208,14 +208,17 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "WebServer/1.0.0": {
+      "SIS.WebServer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "C:\\Users\\User\\Downloads\\SIS-master\\SIS-master\\src\\SIS.HTTP\\SIS.HTTP.csproj": "1.0.0"
+        },
         "compile": {
-          "bin/placeholder/WebServer.dll": {}
+          "bin/placeholder/SIS.WebServer.dll": {}
         },
         "runtime": {
-          "bin/placeholder/WebServer.dll": {}
+          "bin/placeholder/SIS.WebServer.dll": {}
         }
       }
     }
@@ -684,16 +687,17 @@
         "netstandard.library.nuspec"
       ]
     },
-    "WebServer/1.0.0": {
+    "SIS.WebServer/1.0.0": {
       "type": "project",
-      "path": "../WebServer/WebServer.csproj",
-      "msbuildProject": "../WebServer/WebServer.csproj"
+      "path": "../../../SIS-master/SIS-master/src/SIS.WebServer/SIS.WebServer.csproj",
+      "msbuildProject": "../../../SIS-master/SIS-master/src/SIS.WebServer/SIS.WebServer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj",
       "Microsoft.NETCore.App >= 2.1.0",
-      "WebServer >= 1.0.0"
+      "SIS.WebServer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -703,11 +707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvcFramework\\SimpleMvcFramework.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvcFramework\\SimpleMvcFramework.csproj",
       "projectName": "SimpleMvcFramework",
-      "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvcFramework\\SimpleMvcFramework.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvcFramework\\SimpleMvcFramework.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvcFramework\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvcFramework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +730,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj"
+            "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj"
+            },
+            "C:\\Users\\User\\Downloads\\SIS-master\\SIS-master\\src\\SIS.WebServer\\SIS.WebServer.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\SIS-master\\SIS-master\\src\\SIS.WebServer\\SIS.WebServer.csproj"
             }
           }
         }
@@ -755,5 +762,25 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj'. The project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\User\\Downloads\\SIS-master\\SIS-master\\src\\SIS.HTTP\\SIS.HTTP.csproj'. The project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\User\\Downloads\\SIS-master\\SIS-master\\src\\SIS.HTTP\\SIS.HTTP.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }

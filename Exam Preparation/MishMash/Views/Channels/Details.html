@@ -1,0 +1,18 @@
+﻿<main>
+    <hr class="hr-2 bg-mishmash" />
+    <div class="text-center">
+        <div class="row justify-content-around">
+            <h2 class="text-mishmash">Channel: @Model.Name</h2>
+            <h2 class="text-mishmash">Type: @Model.Type</h2>
+            <h2 class="text-mishmash">Followers: @Model.FollowersCount</h2>
+        </div>
+        <hr class="hr-2 bg-mishmash" />
+        <h2 class="text-mishmash">Tags</h2>
+        <p>@Model.Tags</p>
+        <hr class="hr-2 bg-mishmash" />
+        <h2 class="text-mishmash">Description</h2>
+        <p>@Model.Description </p>
+        <hr class="hr-2 bg-mishmash" />
+        <button class="btn bg-mishmash text-white"><a class="text-white" href="/Channels/Followed">Back</a></button>
+    </div>
+</main>

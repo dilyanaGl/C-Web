@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 using SimpleMvcFramework.Contracts;
-using SimpleMvcFramework.Contracts.Generics;
 using SimpleMvcFramework.Helpers;
 using SimpleMvcFramework.ViewEngine;
-using SimpleMvcFramework.ViewEngine.Generic;
 
 namespace SimpleMvcFramework.Controllers
 {
@@ -21,14 +19,14 @@ namespace SimpleMvcFramework.Controllers
             return new ActionResult(fullQualifiedName);
         }
 
-        protected IActionResult<TModel> View<TModel>(TModel model, [CallerMemberName] string caller="")
-        {
-            string controllerName = ControllerHelpers.GetControllerName(this);
-            string fullQualifiedName = ControllerHelpers.GetFullQualifiedName(controllerName, caller);
+        //protected IActionResult<TModel> View<TModel>(TModel model, [CallerMemberName] string caller="")
+        //{
+        //    string controllerName = ControllerHelpers.GetControllerName(this);
+        //    string fullQualifiedName = ControllerHelpers.GetFullQualifiedName(controllerName, caller);
 
-            return new ActionResult<TModel>(fullQualifiedName, model); 
+        //    return new ActionResult<TModel>(fullQualifiedName, model); 
 
-        }
+        //}
 
         protected IActionResult View(string controller, string action)
         {
@@ -37,12 +35,14 @@ namespace SimpleMvcFramework.Controllers
             return new ActionResult(fullQualifiedName);
         }
 
-        protected IActionResult<TModel> View<TModel>(TModel model, string controller, string action)
-        {
-            var fullQualifiedName = ControllerHelpers
-                .GetFullQualifiedName(controller, action);
+        //protected IRedi
 
-            return new ActionResult<TModel>(fullQualifiedName, model);
-        }
+        //protected IActionResult<TModel> View<TModel>(TModel model, string controller, string action)
+        //{
+        //    var fullQualifiedName = ControllerHelpers
+        //        .GetFullQualifiedName(controller, action);
+
+        //    return new ActionResult<TModel>(fullQualifiedName, model);
+        //}
     }
 }

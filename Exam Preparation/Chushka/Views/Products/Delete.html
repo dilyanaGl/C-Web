@@ -1,0 +1,68 @@
+﻿<h1 class="text-center">Delete</h1>
+<hr class="bg-secondary hr-2" />
+<form class="mx-auto half-width" method="post" action="/Products/Delete">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input disabled type="text" class="form-control" id="name" placeholder="Name..." name="Name" value="@Model.Name">
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input disabled type="text" class="form-control" id="Price" placeholder="Price..." name="Price" value="@Model.Price">
+    </div>
+    <div class="form-group">
+        <label for="description">Description</label>
+        <textarea disabled type="text" class="form-control" id="description" placeholder="Description..." name="Description">@Model.Description</textarea>
+    </div>
+    <div class="form-group justify-content-center">
+        <h3 class="text-center"><label for="productType" class="text-mishmash">Product Type</label><br /></h3>
+        <hr class="bg-secondary half-width hr-2" />
+        <div class="row justify-content-around">
+            @if(@Model.ProductType == "Food")
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Food" checked>Food
+            }
+            @else
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Food">Food
+            }
+            @if(@Model.ProductType == "Domestic")
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Domestic" checked>Domestic
+            }
+            @else
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Domestic">Domestic
+            }
+            @if(@Model.ProductType == "Health")
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Health" checked>Health
+            }
+            @else
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Health">Health
+            }
+            @if(@Model.ProductType == "Cosmetic")
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Cosmetic" checked>Cosmetic
+            }
+            @else
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Cosmetic">Cosmetic
+            }
+            @if(@Model.ProductType == "Other")
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Other" checked>Other
+            }
+            @else
+            {
+            <input disabled type="radio" name="ProductType" id="productType" value="Other">Other
+            }
+        </div>
+        <hr class="bg-secondary half-width hr-2" />
+    </div>
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn chushka-bg-color">Delete</button>
+    </div>
+</form>

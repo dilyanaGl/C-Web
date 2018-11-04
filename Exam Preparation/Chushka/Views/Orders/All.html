@@ -1,0 +1,40 @@
+﻿<main class="mt-3 mb-5">
+    <h1 class="text-center text-mishmash">All Orders</h1>
+    <hr class="bg-secondary half-width hr-2" />
+    <table class="table w-75 mx-auto">
+        <thead>
+            <tr class="row">
+                <th class="col-md-1">#</th>
+                <th class="col-md-1">Id</th>
+                <th class="col-md-3">Customer</th>
+                <th class="col-md-3">Product</th>
+                <th class="col-md-2">Ordered On</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            {int j = 1;}
+            @for(int i = 0; i < @Model.Orders.Length; i++, j++)
+            {
+            @if(i % 2 == 0)
+            {
+            <tr class="row chushka-bg-color">
+                }
+                @else
+                {
+            <tr class="row">
+                }
+
+        <th class="col-md-1">@j</th>
+        <td class="col-md-1">@Model.Orders[i].Id</td>
+        <td class="col-md-3">@Model.Orders[i].Customer</td>
+        <td class="col-md-3">@Model.Orders[i].Product</td>
+        <td class="col-md-2">@Model.Orders[i].OrderedOn</td>
+
+        </tr>
+
+        }
+
+        </tbody>
+    </table>
+</main>

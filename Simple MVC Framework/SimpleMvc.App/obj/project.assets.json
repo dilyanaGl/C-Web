@@ -3589,11 +3589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvc.App\\SimpleMvc.App.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvc.App\\SimpleMvc.App.csproj",
       "projectName": "SimpleMvc.App",
-      "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvc.App\\SimpleMvc.App.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvc.App\\SimpleMvc.App.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvc.App\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvc.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3612,11 +3612,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvcFramework\\SimpleMvcFramework.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\SimpleMvcFramework\\SimpleMvcFramework.csproj"
+            "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvcFramework\\SimpleMvcFramework.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\SimpleMvcFramework\\SimpleMvcFramework.csproj"
             },
-            "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\09. Web-Dev-Basics-Advanced-MVC-Framework-Resources\\WebServer\\WebServer.csproj"
+            "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\C-Web\\Simple MVC Framework\\WebServer\\WebServer.csproj"
             }
           }
         }

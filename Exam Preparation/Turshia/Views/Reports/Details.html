@@ -1,0 +1,71 @@
+﻿<main class="mt-3 mb-5">
+    <div class="task-head">
+        <h1 class="text-center text-torshia">Fix Business Agenda</h1>
+    </div>
+    <hr class="hr-2 bg-torshia" />
+    <h1 class="text-center text-torshia">Report - @Model.Id</h1>
+    <hr class="hr-2 bg-torshia" />
+    <div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-between">
+        <h3 class="text-torshia">Task: @Model.TaskName</h3>
+        <h3 class="text-torshia">Due Date: @Model.DueDate</h3>
+    </div>
+    <div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-between">
+        <h3 class="text-torshia text-center">Level: @Model.Level</h3>
+        <h3 class="text-torshia text-center">Reported On: @Model.ReportedOn</h3>
+    </div>
+    <div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-between">
+        <h3 class="text-torshia">Status: @Model.Status</h3>
+        <h3 class="text-torshia">Reporter: @Model.Reporter</h3>
+    </div>
+    <hr class="hr-2 bg-torshia" />
+    <div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-between">
+        <div class="text-torshia col-md-5 text-center">
+            <h3 class="text-torshia">Participants</h3>
+            @Model.Participants
+        </div>
+
+        <div class="text-torshia col-md-5 text-center">
+            <h3 class="text-torshia">Affected Sectors</h3>
+            @Model.AffectedSectors
+        </div>
+    </div>
+
+
+
+    <!--<div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-around">
+
+    </div>
+    <hr class="hr-2 bg-torshia" />
+    <div class="row task-main-data-holder w-75 mx-auto d-flex justify-content-around">
+        <h3 class="text-torshia">Status: @Model.Status</h3>
+        <h3 class="text-torshia">Reporter: @Model.Reporter</h3>
+    </div>
+    <div class="task-secondary-data-holder row d-flex justify-content-between">
+        <div class="task-participants-holder col-md-5">
+            <h3 class="text-center text-torshia">Participants</h3>
+            <div class="task-tags-holder w-75 mx-auto">
+                <h6 class="text-center text-torshia">
+                    Jonathan Civic, Antoanette Bruccell, Tony Sims, George
+                    Peterson, Jack Viel
+                </h6>
+            </div>
+        </div>
+        <div class="task-participants-holder col-md-5">
+            <h3 class="text-center text-torshia">Affected Sectors</h3>
+            <div class="task-tags-holder w-75 mx-auto">
+                <h6 class="text-center text-torshia">Marketing, Finances, Internal, Management</h6>
+            </div>
+        </div>
+    </div>-->
+    <hr class="hr-2 bg-torshia" />
+    <h3 class="text-center text-torshia">Task Description</h3>
+    <div class="product-description-holder">
+        <p class="text-center text-torshia mt-4">
+            @Model.Description
+        </p>
+    </div>
+    <hr class="hr-2 bg-torshia" />
+    <div class="button-holder d-flex justify-content-center">
+        <button class="btn bg-torshia text-white"> <a class="text-white" href="/Reports/All">Back</a></button>
+    </div>
+</main>

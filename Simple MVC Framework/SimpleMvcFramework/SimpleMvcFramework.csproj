@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\SIS-master\SIS-master\src\SIS.WebServer\SIS.WebServer.csproj" />
     <ProjectReference Include="..\WebServer\WebServer.csproj" />
   </ItemGroup>
 

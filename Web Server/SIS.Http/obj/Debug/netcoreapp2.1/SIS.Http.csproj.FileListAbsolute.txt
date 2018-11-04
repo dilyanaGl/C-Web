@@ -1,9 +1,0 @@
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\bin\Debug\netcoreapp2.1\SIS.Http.deps.json
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\bin\Debug\netcoreapp2.1\SIS.Http.dll
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\bin\Debug\netcoreapp2.1\SIS.Http.pdb
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.csprojAssemblyReference.cache
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.AssemblyInfo.cs
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.dll
-C:\Users\User\source\repos\WebServer.SIS\SIS.Http\obj\Debug\netcoreapp2.1\SIS.Http.pdb

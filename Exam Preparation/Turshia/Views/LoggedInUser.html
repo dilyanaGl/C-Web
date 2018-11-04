@@ -1,0 +1,42 @@
+﻿<main>
+    <div>
+        <div>
+            @if(User.IsAdmin)
+            {
+            <h2 class="text-torshia text-center">Welcome, Admin-@User.Username!</h2>
+            }
+            @else
+            {
+            <h2 class="text-torshia text-center">Welcome, @User.Username!</h2>
+            }
+        </div>
+        <h2 class="text-torshia text-center">Have a nice tasking experience!</h2>
+        <hr class="hr-2 bg-torshia">
+
+        <div class="container-fluid">
+            <div class="row justify-content-start mr-auto mt-3">
+
+                @for(int i = 0; i < @Model.Tasks.Count(); i++)
+                {
+
+                @if(i % 5 == 0 && i > 1)
+                {
+            </div>
+            <div class="row justify-content-start mt-3 mr-3">
+
+                }
+                { var task = @Model.Tasks[i]; }
+                <div class="col.auto mr-auto col-md-2 bg-torshia text-white text-center">
+                    @task.Name
+                    <hr class="bg-white">
+                    @task.Level
+                    <hr class="bg-white">
+                    <a href="/Tasks/Report?id=@task.Id" class="text-white">Report</a>&nbsp;
+                    <a href="/Tasks/Details?id=@task.Id" class="text-white">Details</a>
+
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</main>  
